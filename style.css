@@ -1,0 +1,27 @@
+/* Titile Section */
+section#title-section {
+  background-image: url("images/http.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  width: auto;
+}
+
+/* Navbar Section1 */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand,
+.nav-link {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+}
+.navbar-brand {
+  font-size: 2.5rem;
+}
+.nav-link {
+  font-size: 1.5rem;
+}
+.features{
+    padding: 7% 0%;
+}
