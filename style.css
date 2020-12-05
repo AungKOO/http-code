@@ -11,7 +11,7 @@ section#title-section {
 }
 
 /* Navbar Section1 */
-.navbar {
+.cotainer-fluid > .navbar {
   padding: 0 0 4.5rem;
 }
 .navbar-brand,
@@ -46,4 +46,13 @@ section#title-section {
 .footer-section{
   background-color: #eee;
 
+}
+
+/* Other pages 1xx 2xx 3xx 4xx 5xx */
+.page-header {
+  padding-top: 2rem;
+  font-family: Roboto,sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 4rem;
 }
