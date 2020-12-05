@@ -50,7 +50,7 @@ section#title-section {
 
 /* Other pages 1xx 2xx 3xx 4xx 5xx */
 .page-header {
-  padding-top: 2rem;
+  padding: 2rem 0;
   font-family: Roboto,sans-serif;
   text-align: center;
   font-weight: 700;
